@@ -1,6 +1,6 @@
-package banana
+package counter
 
 // a counter
 func Counter() int {
-	return 2
+	return 3
 }
